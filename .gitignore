@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+.env/
+
+# Mühit dəyişənləri — API açarları burada!
+.env
+
+# PyCharm
+.idea/
+*.iml
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+logs/
+*.jsonl
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+frontend/dist/
+frontend/build/
+
+# PDF yükləmələr
+uploads/
+*.pdf
